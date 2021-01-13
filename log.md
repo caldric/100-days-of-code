@@ -25,3 +25,11 @@
 **Thoughts**: The toolkit provides a much better dev experience when using React, Redux, and TypeScript together, especially in terms of seting up. I might keep using it for situations when the toolkit would do.
 
 ([Link](https://github.com/caldric/react-redux-practice/tree/main/redux-typescript))
+
+### Day 2: 12 January 2021 (Tuesday)
+
+**Today's Progress**: I learned how to create my own Promise.
+
+**Thoughts**: I was unable to use async/await with an async function that didn't return a Promise. When taking breaks and reading the docs, creating a Promise is suprisingly easy. Take more breaks!
+
+(Source code: [`promises.ts`](https://github.com/caldric/100-days-of-code/blob/master/exercises/promises.ts))
