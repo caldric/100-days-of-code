@@ -33,3 +33,11 @@
 **Thoughts**: I was unable to use async/await with an async function that didn't return a Promise. When taking breaks and reading the docs, creating a Promise is suprisingly easy. Take more breaks!
 
 (Source code: [`promises.ts`](https://github.com/caldric/100-days-of-code/blob/master/exercises/promises.ts))
+
+### Day 3: 13 January 2021 (Wednesday)
+
+**Today's Progress**: I worked on converting my work-in-progress Jira project from MERN to MERN + TypeScript + Redux + Jest + Enzyme.
+
+**Thoughts**: I became stuck at trying to write a unit test for the `onChange` function of the input element. I'm glad that I stepped away from it because I definitely would not have been productive otherwise.
+
+([GitHub repo](https://github.com/caldric/jira-clone))
