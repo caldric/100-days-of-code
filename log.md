@@ -41,3 +41,11 @@
 **Thoughts**: I became stuck at trying to write a unit test for the `onChange` function of the input element. I'm glad that I stepped away from it because I definitely would not have been productive otherwise.
 
 ([GitHub repo](https://github.com/caldric/jira-clone))
+
+### Day 4: 14 January 2021 (Thursday)
+
+**Today's Progress**: I learned more on how to use mock functions and simulate user actions in Jest + Enzyme on a React + TS + Redux app.
+
+**Thoughts**: React class components seem to be much easier to test than their function component counterparts. Is it because it's been around longer and support for function components isn't as readily available? In any case, I'm glad I know class components and can easily switch back and forth between the two.
+
+([GitHub repo](https://github.com/caldric/jira-clone))
