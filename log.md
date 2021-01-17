@@ -57,3 +57,11 @@
 **Thoughts**: While I'm not new to this problem pattern, I'm noticing that I'm getting just a little bit faster and better, whether it's from generating the algorithm for the solution, or remembering the necessary methods for given step.
 
 (Source code: [`ransom_note.py`](https://github.com/caldric/dsa/blob/main/ransom_note.py))
+
+### Day 6: 17 January 2021 (Sunday)
+
+**Today's Progress**: I built a "Pomodoro timer" bash script with more bite.
+
+**Thoughts**: I built this in order to help with my tendency to ignore the Pomodoro timers I set. The script automatically sends the computer to sleep after a variable number of minutes based on my input (e.g., `./sleep.sh 50`). I learned more about functions, function arguments, and sending processes to the background using "&".
+
+(Source code: [`sleep.sh`](https://github.com/caldric/config/blob/main/scripts/sleep.sh))
