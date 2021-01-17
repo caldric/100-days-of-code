@@ -49,3 +49,11 @@
 **Thoughts**: React class components seem to be much easier to test than their function component counterparts. Is it because it's been around longer and support for function components isn't as readily available? In any case, I'm glad I know class components and can easily switch back and forth between the two.
 
 ([GitHub repo](https://github.com/caldric/jira-clone))
+
+### Day 5: 16 January 2021 (Saturday)
+
+**Today's Progress**: I did a HackerRank challenges in the dictionaries and hashmaps category using Python.
+
+**Thoughts**: While I'm not new to this problem pattern, I'm noticing that I'm getting just a little bit faster and better, whether it's from generating the algorithm for the solution, or remembering the necessary methods for given step.
+
+(Source code: [`ransom_note.py`](https://github.com/caldric/dsa/blob/main/ransom_note.py))
