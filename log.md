@@ -65,3 +65,11 @@
 **Thoughts**: I built this in order to help with my tendency to ignore the Pomodoro timers I set. The script automatically sends the computer to sleep after a variable number of minutes based on my input (e.g., `./sleep.sh 50`). I learned more about functions, function arguments, and sending processes to the background using "&".
 
 (Source code: [`sleep.sh`](https://github.com/caldric/config/blob/main/scripts/sleep.sh))
+
+### Day 7: 18 January 2021 (Monday)
+
+**Today's Progress**: I learned client-side form validation using React and TypeScript.
+
+**Thoughts**: I haven't done any sort of form validation before and forms in the real world typically have validation. Since Atlassian's Jira has it, I needed to learn it in order to incorporate it into my clone. I think I got the basics down, and I will most likely be implementing both client-side and server-side validation if not just the latter.
+
+([GitHub repo](https://github.com/caldric/100-days-of-code/tree/master/exercises/client-side-form-validation/src))
