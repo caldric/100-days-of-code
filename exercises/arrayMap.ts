@@ -1,14 +1,11 @@
 class MyArray<T> extends Array<T> {
-  myMap<U>(
-    callbackfn: (value: T, index: number, array: T[]) => U,
-    thisArg?: any
-  ): U[] {
+  myMap<U>(callbackfn: (value: T, index: number) => U): U[] {
     // Create new array to prevent mutation of the old array
     const newArray: U[] = [];
 
     // Apply callback function to every element in the array
     for (let i = 0; i < this.length; ++i) {
-      newArray.push(callbackfn(this[i], i, this));
+      newArray.push(callbackfn(this[i], i));
     }
 
     return newArray;
