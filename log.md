@@ -81,3 +81,11 @@
 **Thoughts**: This challenged me a bit and reinforced that practicing will make me faster at doing code challenges. I especially felt frustrated when I felt that I was moving slow and I saw the one line solution of others. However, from what I know the top solutions do not fulfill the O(1) additional space requirement.
 
 (Source code: [`rotate_image.py`](https://github.com/caldric/dsa/blob/main/rotate_image.py))
+
+### Day 9: 21 January 2021 (Thursday)
+
+**Today's Progress**: I originally set out to recreate the Array.prototype.map method on JavaScript. I didn't feel challenged, so I recreated it on TypeScript.
+
+**Thoughts**: I didn't know until now that there there was an `array` parameter in the callback function and a `thisArg` parameter in the map method. I still don't know when I would use these. I'm also not sure what `U` means. My guess is that it's a way to reference the return value of the callback function and assign `U[]` as the return value of the map method without having to use the `ReturnType<Type>` utility type.
+
+(Source code: [`arrayMap.ts`](https://github.com/caldric/100-days-of-code/blob/master/exercises/arrayMap.ts))
