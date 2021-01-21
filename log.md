@@ -73,3 +73,11 @@
 **Thoughts**: I haven't done any sort of form validation before and forms in the real world typically have validation. Since Atlassian's Jira has it, I needed to learn it in order to incorporate it into my clone. I think I got the basics down, and I will most likely be implementing both client-side and server-side validation if not just the latter.
 
 ([GitHub repo](https://github.com/caldric/100-days-of-code/tree/master/exercises/client-side-form-validation/src))
+
+### Day 8: 20 January 2021 (Wednesday)
+
+**Today's Progress**: I solved a [CodeSignal challenge](https://app.codesignal.com/interview-practice/task/5A8jwLGcEpTPyyjTB/description) on arrays using Python 3. The task is to rotate an image. The input is a 2D n x n array.
+
+**Thoughts**: This challenged me a bit and reinforced that practicing will make me faster at doing code challenges. I especially felt frustrated when I felt that I was moving slow and I saw the one line solution of others. However, from what I know the top solutions do not fulfill the O(1) additional space requirement.
+
+(Source code: [`rotate_image.py`](https://github.com/caldric/dsa/blob/main/rotate_image.py))
