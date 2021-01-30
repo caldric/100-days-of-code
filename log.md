@@ -103,3 +103,5 @@
 **Today's Progress**: I learned about tmux + Neovim and tried to set up an IDE with it.
 
 **Thoughts**: tmux + Neovim shows some promise, however, it is very hard to set up. Now, I'm appreciating VS Code more. While I may prefer using tmux + Neovim in the future, as a complete configuration enables you to have a much more efficient workflow without using the mouse, as of now I haven't replicated VS Code features on my tmux + Neovim environment.
+
+([Proof of work completed](https://www.linkedin.com/feed/update/urn:li:share:6759545762801094656))
