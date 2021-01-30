@@ -96,6 +96,8 @@
 
 **Thoughts**: I became curious about ECMAScript (ES) and its relationship to JavaScript. There are different version of JavaScript and not all browsers are compatible with later versions of JavaScript. I also see the ES versions a lot when working with TypeScript. Simply put, JS is an ES dialect that conforms to the ES spec (called the ECMA-262).
 
+([Proof of work completed](https://www.linkedin.com/feed/update/urn:li:share:6758566287993032704))
+
 ### Day 11: 24 January 2021 (Sunday)
 
 **Today's Progress**: I learned about tmux + Neovim and tried to set up an IDE with it.
