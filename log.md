@@ -105,3 +105,11 @@
 **Thoughts**: tmux + Neovim shows some promise, however, it is very hard to set up. Now, I'm appreciating VS Code more. While I may prefer using tmux + Neovim in the future, as a complete configuration enables you to have a much more efficient workflow without using the mouse, as of now I haven't replicated VS Code features on my tmux + Neovim environment.
 
 ([Proof of work completed](https://www.linkedin.com/feed/update/urn:li:share:6759545762801094656))
+
+### Day 12: 26 January 2021 (Tuesday)
+
+**Today's Progress**: Today, I built an Express API for my next project: Divs Against Hoomanity (an online version of the game _Cards Against Humanity_).
+
+**Thoughts**: I haven’t been working on projects for a while, so this is a good exercise on working on both the back and front end, deployment, project/time management, testing, WebSockets, and so on. It’s a good way for me to get back into building projects since this is something I’m inherently excited to build. I’m a bit rusty and I began to get overwhelmed with what I needed to start working on, so I just decided to start somewhere and organize my plan and thoughts once I get the ball rolling.
+
+([Last push of the day](https://github.com/caldric/divs-against-hoomanity-api/commit/525787e86ce9816ab8bc31b654d997fe99c78ccb))
