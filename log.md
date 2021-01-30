@@ -113,3 +113,11 @@
 **Thoughts**: I haven’t been working on projects for a while, so this is a good exercise on working on both the back and front end, deployment, project/time management, testing, WebSockets, and so on. It’s a good way for me to get back into building projects since this is something I’m inherently excited to build. I’m a bit rusty and I began to get overwhelmed with what I needed to start working on, so I just decided to start somewhere and organize my plan and thoughts once I get the ball rolling.
 
 ([Last push of the day](https://github.com/caldric/divs-against-hoomanity-api/commit/525787e86ce9816ab8bc31b654d997fe99c78ccb))
+
+### Day 13: 28 January 2021 (Thursday)
+
+**Today's Progress**: Today, I added TypeScript and some automated tests for Divs Against Hoomanity. I'm using Mocha, Chai, and Supertest for testing.
+
+**Thoughts**: Since I've already gained some experience at writing automated tests, I wanted to take a crack at it for my API instead of doing manual testing with Postman. I read somewhere that a smaller project will probably not benefit much from TypeScript. In fact, it will even be detrimental to the development speed. I definitely notice this. Despite that, I intend to keep using it to gain proficiency across as many contexts as I can. Like when I was first learning Vim or learning to type on Colemak, I wouldn't have gotten better if I didn't force myself to use it. I'm new to testing APIs and this definitely stretched my brain for today.
+
+([Last push of the day](https://github.com/caldric/divs-against-hoomanity-api/commit/b8089b513326a4d9981f97780e25950fd9901625))
