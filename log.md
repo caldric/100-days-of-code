@@ -95,3 +95,9 @@
 **Today's Progress**: Today, I learned more about ECMAScript.
 
 **Thoughts**: I became curious about ECMAScript (ES) and its relationship to JavaScript. There are different version of JavaScript and not all browsers are compatible with later versions of JavaScript. I also see the ES versions a lot when working with TypeScript. Simply put, JS is an ES dialect that conforms to the ES spec (called the ECMA-262).
+
+### Day 11: 24 January 2021 (Sunday)
+
+**Today's Progress**: I learned about tmux + Neovim and tried to set up an IDE with it.
+
+**Thoughts**: tmux + Neovim shows some promise, however, it is very hard to set up. Now, I'm appreciating VS Code more. While I may prefer using tmux + Neovim in the future, as a complete configuration enables you to have a much more efficient workflow without using the mouse, as of now I haven't replicated VS Code features on my tmux + Neovim environment.
