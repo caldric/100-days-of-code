@@ -89,3 +89,9 @@
 **Thoughts**: I didn't know until now that there there was an `array` parameter in the callback function and a `thisArg` parameter in the map method. I still don't know when I would use these. I'm also not sure what `U` means. My guess is that it's a way to reference the return value of the callback function and assign `U[]` as the return value of the map method without having to use the `ReturnType<Type>` utility type.
 
 (Source code: [`arrayMap.ts`](https://github.com/caldric/100-days-of-code/blob/master/exercises/arrayMap.ts))
+
+### Day 10: 22 January 2021 (Friday)
+
+**Today's Progress**: Today, I learned more about ECMAScript.
+
+**Thoughts**: I became curious about ECMAScript (ES) and its relationship to JavaScript. There are different version of JavaScript and not all browsers are compatible with later versions of JavaScript. I also see the ES versions a lot when working with TypeScript. Simply put, JS is an ES dialect that conforms to the ES spec (called the ECMA-262).
