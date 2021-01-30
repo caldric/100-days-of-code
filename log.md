@@ -121,3 +121,11 @@
 **Thoughts**: Since I've already gained some experience at writing automated tests, I wanted to take a crack at it for my API instead of doing manual testing with Postman. I read somewhere that a smaller project will probably not benefit much from TypeScript. In fact, it will even be detrimental to the development speed. I definitely notice this. Despite that, I intend to keep using it to gain proficiency across as many contexts as I can. Like when I was first learning Vim or learning to type on Colemak, I wouldn't have gotten better if I didn't force myself to use it. I'm new to testing APIs and this definitely stretched my brain for today.
 
 ([Last push of the day](https://github.com/caldric/divs-against-hoomanity-api/commit/b8089b513326a4d9981f97780e25950fd9901625))
+
+### Day 14: 29 January 2021 (Friday)
+
+**Today's Progress**: Today, I worked more on the DAH project. I added an interface for the black cards and completed writing the tests for all of the endpoints so far.
+
+**Thoughts**: I feel the pain of using TypeScript with Express again. It feels as if Express and any other libraries/frameworks connected to it are not optimized for TypeScript. Even the Mongoose docs does not return results when you search TS within it. Writing the remaining test for the POST request presented a bit of a challenge, but not as much as using TS with Mongoose. The challenge from writing the test just came from the fact that I had to submit some data unlike a GET request and that I'm not familiar with the different Chai assertions.
+
+([Last push of the day](https://github.com/caldric/divs-against-hoomanity-api/commit/a01b73933eb972d3cc6f210b7f45484fc49415c5))
