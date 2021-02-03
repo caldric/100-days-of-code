@@ -129,3 +129,11 @@
 **Thoughts**: I feel the pain of using TypeScript with Express again. It feels as if Express and any other libraries/frameworks connected to it are not optimized for TypeScript. Even the Mongoose docs does not return results when you search TS within it. Writing the remaining test for the POST request presented a bit of a challenge, but not as much as using TS with Mongoose. The challenge from writing the test just came from the fact that I had to submit some data unlike a GET request and that I'm not familiar with the different Chai assertions.
 
 ([Last push of the day](https://github.com/caldric/divs-against-hoomanity-api/commit/a01b73933eb972d3cc6f210b7f45484fc49415c5))
+
+### Day 15: 2 February 2021 (Tuesday)
+
+**Today's Progress**: I implemented my own Array in JavaScript.
+
+**Thoughts**: I wanted to better learn and understand arrays by implementing my own Array class. Since one implementation of a stack seemed to rely on Array methods, I wanted to implement an array first.
+
+(Source code: [`Array.js`](https://github.com/caldric/100-days-of-code/blob/master/exercises/Array.js))
