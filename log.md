@@ -137,3 +137,11 @@
 **Thoughts**: I wanted to better learn and understand arrays by implementing my own Array class. Since one implementation of a stack seemed to rely on Array methods, I wanted to implement an array first.
 
 (Source code: [`Array.js`](https://github.com/caldric/100-days-of-code/blob/master/exercises/Array.js))
+
+### Day 16: 2 February 2021 (Tuesday)
+
+**Today's Progress**: I implemented my own Stack in JavaScript using Linked Lists.
+
+**Thoughts**: Since I used Linked Lists, I'll do Linked Lists next.
+
+(Source code: [`Stack.js`](https://github.com/caldric/100-days-of-code/blob/master/exercises/Stack.js))
