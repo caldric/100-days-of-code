@@ -145,3 +145,10 @@
 **Thoughts**: Since I used Linked Lists, I'll do Linked Lists next.
 
 (Source code: [`Stack.js`](https://github.com/caldric/100-days-of-code/blob/master/exercises/Stack.js))
+
+### Day 17: 3 February 2021 (Wednesday)
+
+**Today's Progress**: I switched my shell from zsh to fish, installed fisher, some fish plugins, Tide (fish's P10k) and the Hyper and Alacritty terminal emulators.
+
+**Thoughts**: Fucking awesome. I'm loving it. Not quite the productivity I had in mind, but sometimes you just gotta let go and dive down the rabbit hole.
+
