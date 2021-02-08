@@ -171,3 +171,15 @@ Here's what I've learned:
 - Using tmux and its basic commands/shortcuts
 - Installing plugins in n/vim
 - Implementing better vim workflows by leveraging leader key shortcuts
+
+### Day 19: 6 February 2021 (Saturday) [catch-up]
+
+**Today's Progress**: I learned about the 'git clean' command
+
+#### **Thoughts**
+
+I had some unwanted lingering .swp files in my repository and being the lazy developer that I am, I wanted to find a single command to remove all of them at once. From the man page:
+
+"git-clean - Remove untracked files from the working tree"
+
+From doing this, I also exercised piping with grep and learned the associated aliases/abbreviations that came with the git plugin for fish.
