@@ -152,3 +152,22 @@
 
 **Thoughts**: Fucking awesome. I'm loving it. Not quite the productivity I had in mind, but sometimes you just gotta let go and dive down the rabbit hole.
 
+### Day 18: 6 February 2021 (Saturday)
+
+**Today's Progress**: I "completed" configuring my tmux + vim setup (with fish); I will continue to use VS Code + vim as my daily driver.
+
+#### **Thoughts**
+
+After going through this experience here's what I would tell my past self:
+
+If you only care about straight-up results/productivity and you already have zsh + Oh My Zsh + configs + established workflows, don't switch. It's the same as QWERTY to Colemak or Dvorak to Colemak when you already "touch type:" switching to something else will only give you marginal results.
+
+That being said, if you're only using the default bash, I would definitely recommend checking fish or zsh + Oh My Zsh. Fish has better default configs.
+
+You're an iPhone-type person now. Sure, you may have tinkered with everything before on an Android, but now it's not as shiny and you care more about simplicity and results. What I'm trying to say is, you can do the same things with the default keyboard shortcuts on VS Code. Sure, it might be slightly slower than a terminal, but the bottleneck is your brain thinking about the code to write, not your code-editing tool.
+
+Here's what I've learned:
+
+- Using tmux and its basic commands/shortcuts
+- Installing plugins in n/vim
+- Implementing better vim workflows by leveraging leader key shortcuts
