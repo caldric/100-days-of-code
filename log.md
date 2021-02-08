@@ -183,3 +183,7 @@ I had some unwanted lingering .swp files in my repository and being the lazy dev
 "git-clean - Remove untracked files from the working tree"
 
 From doing this, I also exercised piping with grep and learned the associated aliases/abbreviations that came with the git plugin for fish.
+
+### Day 20: 7 February 2021 (Sunday)
+
+**Today's Progress**: I built logic gates in Minecraft: Buffer, NOT, AND, OR, NAND, NOR, XOR.
